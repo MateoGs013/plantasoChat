@@ -1,0 +1,7 @@
+{
+  "name": "plantasoChat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
